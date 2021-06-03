@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect relation of the most materiall passages of the treaty, between his Majesty and the Parliaments commissioners at Newport in the Isle of Wight. Briefly containing the heads and truths of every dayes proceedings towards the settlement of a happy peace; with other remarkable circumstances form the beginning of this treaty, Septemb. 18. till to the 20. of October. Written by a well-wisher of peace, who being present at the place, desires truth may be communicated for publique satisfaction.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90488</idno><idno type="EEBO-CITATION">99864796</idno>
+  <idno type="VID">162345</idno>
+  <idno type="EEBO-PROQUEST">2240912162</idno>
+  
+            <idno type="STC">Wing P1515</idno>
+            <idno type="STC">Thomason E468_29</idno>
+            <idno type="STC">ESTC R205400</idno>
+            <idno type="PROQUEST">99864796</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864796e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90488)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162345)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E468[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect relation of the most materiall passages of the treaty, between his Majesty and the Parliaments commissioners at Newport in the Isle of Wight. Briefly containing the heads and truths of every dayes proceedings towards the settlement of a happy peace; with other remarkable circumstances form the beginning of this treaty, Septemb. 18. till to the 20. of October. Written by a well-wisher of peace, who being present at the place, desires truth may be communicated for publique satisfaction.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for L. R.</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>October 23, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Monarchy --  Great Britain --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162345:1"/>
+            <p>A Perfect RELATION Of the Most materiall Passages of the TREATY, Between his MAJESTY and the PARLIAMENTS <hi>Commissioners</hi> at <hi>Newport</hi> in the Isle of <hi>Wight.</hi>
+            </p>
+            <p>Briefly containing the Heads and truths of eve<g ref="char:EOLhyphen"/>ry dayes proceedings towards the settlement of a hap<g ref="char:EOLhyphen"/>py Peace; With other remarkable Circumstances from the beginning of this Treaty, <hi>Septemb.</hi> 18. till to the 20. of <hi>October.</hi>
+            </p>
+            <p>Written by a well-wisher of Peace, who being present at the Place, desires truth may be communicated for publique satisfaction.</p>
+            <bibl>Psal. 105. 22.</bibl>
+            <q>—<hi>He teacheth his Senators wisdome.</hi>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>L. R. October</hi> 23. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <pb facs="tcp:162345:2"/>
+            <pb n="3" facs="tcp:162345:2"/>
+            <head>A perfect <hi>Relation</hi> of the most mate<g ref="char:EOLhyphen"/>riall Passages of the TREATY, between his MAIESTY and the Parliaments <hi>Commissioners</hi> at <hi>Newport</hi> in the Isle of <hi>Wight.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Hose wide differences and vast contro<g ref="char:EOLhyphen"/>versies betwixt his Majesty and his two Houses (which by many were thought a most impossible to be compo<g ref="char:EOLhyphen"/>sed, are now by Divine assistance in a hope<g ref="char:EOLhyphen"/>full way of being determined; His Maje<g ref="char:EOLhyphen"/>sty having given Testimony of his peaceable inclinati<g ref="char:EOLhyphen"/>on by many of his <hi>Concessions,</hi> and the Commissioners by th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir judicious managing of these weighty affaires according to the great trust reposed in them: and first give me leave to speak something of the preparation.</p>
+            <div type="proceedings">
+               <head>Wednesday Septemb. 13.</head>
+               <p>THe King caused a Fast to be held in the Court for a blessing upon the <hi>Treaty,</hi> which was performed by his Chaplins <hi>Antiquo more▪</hi> the next day he seemed to have a longing desire of the Commissioners coming.</p>
+            </div>
+            <div type="proceedings">
+               <pb n="4" facs="tcp:162345:3"/>
+               <head>Friday 15.</head>
+               <p>THe Commissioners being shipped at <hi>Southampton</hi> (where they were triumphantly entertained) arri<g ref="char:EOLhyphen"/>ved at <hi>Newport,</hi> the chief Town in the Island, where they were also reciprocally received by the Covernour with respect suitable to their worth, and were accommo<g ref="char:EOLhyphen"/>dated with good quarter and plenty of provision.</p>
+            </div>
+            <div type="proceedings">
+               <head>Saturday 16.</head>
+               <p>THe Commissioners waited upon his Majesty, and having according to the Court ceremony kissed his hand, they fell into a simpathising discourse, which con<g ref="char:EOLhyphen"/>tinued for above an houres space.</p>
+            </div>
+            <div type="proceedings">
+               <head>Munday 18.</head>
+               <p>THe <hi>Treaty</hi> began about nine a clock, at which time his Majesty made a Speech, wherein he professed that he was free from harbouring any prejudice against them, which being ended, he desired that both Kingdomes might be included in the <hi>Treaty,</hi> which being refused by the Commissioners (as contrary to their instructions) caused a long debate, after which his Majesty recal'd that Paper (for they treat by Papers) and concluded to Treat for <hi>England</hi> only, leaving <hi>Scotland</hi> to it selfe.</p>
+            </div>
+            <div type="proceedings">
+               <head>Tuesday 19.</head>
+               <p>PReparation was made for presenting the first Pro<g ref="char:EOLhyphen"/>position.</p>
+            </div>
+            <div type="proceedings">
+               <head>Wensday 20.</head>
+               <p>THey began with the first Proposition concerning the recalling of Proclamations and Declarations, &amp;c. which caused a large dispute and long debate, mana<g ref="char:EOLhyphen"/>ged by his Majesty (his Counsell being present, but not permitted to speak,) with such solidnesse of judgement, that it begat admiration of all that were present, in so
+<pb n="5" facs="tcp:162345:3"/> much that some knowing men have said, that not any man, (had he been in his place) could have spoken more pertinently to the businesse then in Agitation, nor have argued more solidly concerning it, but it growing late, and nothing being concluded, his Majesty desired fur<g ref="char:EOLhyphen"/>ther time to consider of it, and give Answer to them, which was assented unto.</p>
+            </div>
+            <div type="proceedings">
+               <head>
+                  <hi>Mriday</hi> 22. and <hi>Saturday</hi> 23.</head>
+               <p>BOth these dayes were spent on the former Proposi<g ref="char:EOLhyphen"/>tion, but nothing agreed, his Majesty still persisting in his denyall, and desiring further time, which caused much fears, that successe would not answer expectation, but these fears soon vanquished.</p>
+            </div>
+            <div type="proceedings">
+               <head>Munday 25.</head>
+               <p>THey met, and his Majesty gave his finall Answer to the first Proposition, and granted it as was de<g ref="char:EOLhyphen"/>sired, with a Proviso, that nothing should be binding, except all were concluded. After dinner this day the Commissioners drew up their Papers concerning the Church, which they presented to his Majesty about 8. a clock at night, who then said little to them, save only, casting his eye upon one particular therein concerning Pluralities, said that the Parliament had granted more then ever he did.</p>
+            </div>
+            <div type="proceedings">
+               <head>
+                  <hi>Tuesday</hi> 26.</head>
+               <p>They sate not.</p>
+            </div>
+            <div type="proceedings">
+               <head>
+                  <hi>Wednesday</hi> 27.</head>
+               <p>THe Fast was observed by his Majesty at the Court, before whom Dr. <hi>Guls<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n</hi> preached, and by the Commissioners in the Church, Mr. <hi>Marshall</hi> preaching before noon upon <hi>Jer.</hi> 21. 18, 19. and Mr. <hi>Vines</hi> afternoon upon <hi>Hos.</hi> 2. 6, 7.</p>
+            </div>
+            <div type="proceedings">
+               <pb n="6" facs="tcp:162345:4"/>
+               <head>Thursday 28.</head>
+               <p>HIs Majesty delivered in a large Paper, in Answer to the second Proposition, concerning Religion, &amp;c. which contained many heads, as an Answer to all, which was not accepted by the Commissioners, they being by their instructions, to conclude one before they proceed to another.</p>
+            </div>
+            <div type="proceedings">
+               <head>Friday 29.</head>
+               <p>HIs Majesty and the Commissioners sent both to the Parliament, to give them an account of their Proceedings, and to be certified of their acceptance therein.</p>
+               <p>This day severall Gentlewomen of quality came to the Court, and were admitted to kisse his Majesties hand, amongst which one was so conceitedly deckt with black patches or ambitious spots on her face, that after that Ceremony past, his Majesty re-saluted each of them, save that remarkeable Gentlewoman whom (as some have thought for president sake, and for discoun<g ref="char:EOLhyphen"/>tenancing of such unnatural excessive pride) he omitted</p>
+            </div>
+            <div type="proceedings">
+               <head>Munday October 2.</head>
+               <p>THe King delivered a P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>per of Scruples to the Commissioners Chaplaines, wherein he desired to know by what Scriptures they could prove the il<g ref="char:EOLhyphen"/>legality of Episcopacy and the divine Right of Presby<g ref="char:EOLhyphen"/>tery, he conceiving Episcopacy to be consonant to the Word of God: And secondly how the abolishment of them may stand with his Co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onation Oath.</p>
+            </div>
+            <div type="proceedings">
+               <head>Tuesday 3.</head>
+               <p>THe Divines returned an humble Answer to his Maje<g ref="char:EOLhyphen"/>sties Paper, wherein they maintaine by Scripture that Bishops and Presbyters are one and the same, and that
+<pb n="7" facs="tcp:162345:4"/> Episcopacy is not warrantable by the Word.</p>
+            </div>
+            <div type="proceedings">
+               <head>
+                  <hi>Wednesday</hi> 4.</head>
+               <p>They sate not.</p>
+            </div>
+            <div type="proceedings">
+               <head>Thursday 5.</head>
+               <p>THe Commissioners petitioned his Majesty to expe<g ref="char:EOLhyphen"/>dite his full Answer to the second Proposition, the limitted time being farre spent, and they having many more to insist upon.</p>
+            </div>
+            <div type="proceedings">
+               <head>Friday 6.</head>
+               <p>THe Commissioners by Collonel <hi>Hammonds</hi> invita<g ref="char:EOLhyphen"/>tion dined at <hi>Carisbrook</hi> Castle, in which strong hold they were suitably and respectively entertained. This night the King brought in his Reply to the Di<g ref="char:EOLhyphen"/>vines Answer, (which was large and pithy) objecting against some particulars thereof, as not satisfactory.</p>
+            </div>
+            <div type="proceedings">
+               <head>Saturday 7.</head>
+               <p>THis day the Papers were prepared to be delivered to his Majesty concerning the businesse of <hi>Ireland.</hi>
+               </p>
+            </div>
+            <div type="proceedings">
+               <head>
+                  <hi>Munday</hi> 9.</head>
+               <p>They were presented.</p>
+            </div>
+            <div type="proceedings">
+               <head>
+                  <hi>Tuesday</hi> 10.</head>
+               <p>They were debated.</p>
+            </div>
+            <div type="proceedings">
+               <head>
+                  <hi>Wednesday</hi> 11.</head>
+               <p>They were answered, asdesired.</p>
+            </div>
+            <div type="proceedings">
+               <head>Thursday 12.</head>
+               <p>THis day the Commissioners presented a Paper to his Majesty concerning the raising of moneys for Payment of the debts of the Kingdome, and satisfying the Arrears of the Army.</p>
+            </div>
+            <div type="proceedings">
+               <head>Friday 13.</head>
+               <p>HIs Majesty returned Answer to that Proposition as was desired.</p>
+            </div>
+            <div type="proceedings">
+               <head>Saturday 14.</head>
+               <p>HIs Majesty condescended to the nulling of all Ho<g ref="char:EOLhyphen"/>nours conferred, and grants made by the great Seale, which was carried to by the Lord Keeper <hi>Little<g ref="char:EOLhyphen"/>ton.</hi>
+               </p>
+            </div>
+            <div type="proceedings">
+               <pb n="8" facs="tcp:162345:5"/>
+               <head>Munday▪ 16.</head>
+               <p>THe Commissioners presented Papers to his Maje<g ref="char:EOLhyphen"/>sty concerning the exempted persons in their se<g ref="char:EOLhyphen"/>verall Qualifications.</p>
+            </div>
+            <div type="proceedings">
+               <head>Tuesday 17.</head>
+               <p>HIs Majesty returned this Answer, That he will con<g ref="char:EOLhyphen"/>sent that all persons that have had any hand in the plotting or assisting the Rebellion of <hi>Ireland</hi> shall expect no pardon; As for the rest of the persons exprest in the Proposition, his Majesty will assent that the Parliament shall impose upon them what Fines they shall moderate<g ref="char:EOLhyphen"/>ly thinke fit. This evening the Divines presented their Answer to his Majesties Reply concerning Epis<g ref="char:EOLhyphen"/>copall▪ Government.</p>
+            </div>
+            <div type="proceedings">
+               <head>Wednesday 18, and Thursday 19.</head>
+               <p>THey further insisted upon the businesse of the Church, desiring a more fuller Answer thereunto, which still continues in debate.</p>
+            </div>
+            <div type="conclusion">
+               <p>Thus having as briefly as I could, given you the parti<g ref="char:EOLhyphen"/>culars of the principall heads of this present. Treaty, there only remains, that we all labour to be at Peace in our severall Stations, not only assist this Treaty with selves, and mongst our Prayers for a blessing therupon, but according to the Apostles rule endeavour to keep the unity of the Spirit in the bond of Peace.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
